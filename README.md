@@ -1,6 +1,8 @@
+
+<!-- ✨ ANIMACIÓN PRINCIPAL -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Jairo+Gamboa;Engineering+Student;Future+Data+Scientist;AI+and+Technology+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Jairo+Gamboa;Engineering+Student;Future+Data+Scientist;AI+Explorer;Welcome+To+My+Digital+Galaxy" />
 
 </div>
 
@@ -16,20 +18,36 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🛸 Space Dashboard
 
-🎓 Estudiante de Ingeniería  
-🏫 Universidad Libre  
-📍 Pereira, Risaralda - Colombia  
+<div align="center">
 
-📚 Me encanta la lectura  
-🎮 Fan de los videojuegos  
-♟️ Jugador de ajedrez  
-📊 Apasionado por el análisis de datos  
+| Sistema | Estado |
+|----------|------------|
+| 🧠 Inteligencia | ███████░░░░ 70% |
+| 🤖 IA Learning | █████████░░░ 80% |
+| 📊 Data Science | ██████████ 100% |
+| 🎮 Gamer Mode | █████████░ 90% |
+| ♟️ Estrategia | ██████████ 100% |
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 👨‍🚀 Crew Profile
+
+🎓 Estudiante de Ingeniería en Sistemas  
+🏫 Universidad Libre  
+📍 Pereira, Risaralda - Colombia  
+
+📚 Amante de la lectura  
+🎮 Videojuegos  
+♟️ Ajedrez  
+📊 Ciencia de Datos  
+
+---
+
+# 🌐 Communication Channels
 
 <p align="center">
 
@@ -49,7 +67,7 @@
 
 ---
 
-# 🧠 Programming Languages
+# 🧠 Programming Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,r"/>
@@ -57,7 +75,7 @@
 
 ---
 
-# 🗄️ Databases
+# 🗄️ Database Systems
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
@@ -66,7 +84,7 @@
 
 ---
 
-# 📊 Data Science & Analytics
+# 📊 Data Science Laboratory
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=powerbi"/>
@@ -77,26 +95,19 @@
 
 ---
 
-# 🧰 Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 🤖 AI / Machine Learning
+# 🤖 Artificial Intelligence Core
 
 ```python
-class JairoAI:
+class SpaceScientist:
 
     def __init__(self):
+        self.name = "Jairo Gamboa"
+        self.role = "Future Data Scientist"
         self.learning = [
             "Machine Learning",
             "Deep Learning",
-            "Neural Networks",
             "Predictive Modeling"
         ]
 
-    def goal(self):
-        return "Become Data Scientist"
+    def mission(self):
+        return "Build intelligent solutions"
