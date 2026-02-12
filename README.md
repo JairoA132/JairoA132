@@ -1,89 +1,102 @@
-<div align="center" width="50">
-    <img alt="hi" src="./assets/oh hi there.png" width="300"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Jairo+Gamboa;Engineering+Student;Future+Data+Scientist;AI+and+Technology+Enthusiast;Always+Learning+New+Things" />
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Jairo Gamboa</h1>
+---
 
-<h3 align="center">"Si quieres encontrar los secretos del universo, piensa en términos de energía, frecuencia y vibración"</h3>
+<h3 align="center">🌌 "Si quieres encontrar los secretos del universo, piensa en términos de energía, frecuencia y vibración"</h3>
 
 ---
 
-## 👨‍💻 About Me :
-
-- 🎓 Soy **Estudiante de Ingeniería**
-- 🏫 Estudio en la **Universidad Libre**
-- 📍 Vivo en **Pereira, Risaralda - Colombia**
-- 📚 Me gusta mucho la lectura
-- 🎮 Fan de los videojuegos
-- ♟️ Me gusta jugar ajedrez
-- 🌐 Interesado en tecnología y análisis de datos
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=JairoA132&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
-## 🌐 Connect with me :
+# 👨‍💻 About Me
 
-<p align="left">
+🎓 Estudiante de Ingeniería  
+🏫 Universidad Libre  
+📍 Pereira, Risaralda - Colombia  
 
-<a href="TU_LINK_LINKEDIN" target="_blank">
+📚 Me encanta la lectura  
+🎮 Fan de los videojuegos  
+♟️ Jugador de ajedrez  
+📊 Apasionado por el análisis de datos  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jairo-gamboa">
 <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
 </a>
 
-<a href="TU_LINK_INSTAGRAM" target="_blank">
+<a href="https://www.instagram.com/andrew________132?igsh=ZnRwcGhvejRmZjA1">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
 </a>
 
-<a href="TU_LINK_FACEBOOK" target="_blank">
+<a href="https://www.facebook.com/share/1HFdScnvEe/">
 <img src="https://img.icons8.com/fluency/48/facebook.png"/>
 </a>
 
-<a href="TU_LINK_TWITTER" target="_blank">
-<img src="https://img.icons8.com/fluency/48/twitter.png"/>
-</a>
-
-<a href="mailto:TU_CORREO" target="_blank">
-<img src="https://img.icons8.com/fluency/48/apple-mail.png"/>
-</a>
-
 </p>
 
 ---
 
-## 🧠 Lenguajes de Programación :
+# 🧠 Programming Languages
 
-<p>
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/python.png"/>
-<img src="https://img.icons8.com/color/48/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/r-project.png"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,java,r"/>
 </p>
 
 ---
 
-## 🗄️ Bases de Datos :
+# 🗄️ Databases
 
-<p>
-<img src="https://img.icons8.com/color/48/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
 </p>
 
 ---
 
-## 🛠️ Herramientas y Tecnologías :
+# 📊 Data Science & Analytics
 
-<p>
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=powerbi"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats :
+# 🧰 Tools & Technologies
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=algolia)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-⭐ Siempre aprendiendo, explorando nuevas tecnologías y desarrollando soluciones basadas en datos.
+# 🤖 AI / Machine Learning
+
+```python
+class JairoAI:
+
+    def __init__(self):
+        self.learning = [
+            "Machine Learning",
+            "Deep Learning",
+            "Neural Networks",
+            "Predictive Modeling"
+        ]
+
+    def goal(self):
+        return "Become Data Scientist"
